@@ -224,7 +224,7 @@ export default {
         maxStar: 5,
     
     
-        effect2: 1689,
+        effect2: 1688,
     
     
     
@@ -591,7 +591,7 @@ export default {
         maxStar: 5,
     
     
-        effect2: 243,
+        effect2: 242,
     
     
     
@@ -748,7 +748,7 @@ export default {
         maxStar: 5,
     
     
-        effect2: 242,
+        effect2: 243,
     
     
     
@@ -896,7 +896,7 @@ export default {
         
         config4: [
             
-            {"default":0.0,"max":1.0,"min":0.0,"name":"rate","title":1553,"type":"float"},
+            {"default":0.0,"max":1.0,"min":0.0,"name":"rate","title":1554,"type":"float"},
             
         ],
     },
@@ -1263,7 +1263,7 @@ export default {
         
         config4: [
             
-            {"default":0.0,"max":3.0,"min":0.0,"name":"stack","title":615,"type":"float"},
+            {"default":0.0,"max":3.0,"min":0.0,"name":"stack","title":614,"type":"float"},
             
         ],
     },
@@ -1428,7 +1428,7 @@ export default {
             
             {"default":1.0,"max":1.0,"min":0.0,"name":"w3","title":84,"type":"float"},
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":632,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":634,"type":"float"},
             
         ],
     },
@@ -1492,7 +1492,7 @@ export default {
         maxStar: 5,
     
     
-        effect2: 1688,
+        effect2: 1689,
     
     
     
@@ -2223,7 +2223,7 @@ export default {
             
             {"default":0.0,"max":1.0,"min":0.0,"name":"rate_q","title":238,"type":"float"},
             
-            {"default":0.0,"max":4.0,"min":0.0,"name":"stack","title":615,"type":"float"},
+            {"default":0.0,"max":4.0,"min":0.0,"name":"stack","title":614,"type":"float"},
             
         ],
     },
@@ -2327,7 +2327,7 @@ export default {
         
         config4: [
             
-            {"default":4.0,"max":5.0,"min":0.0,"name":"stack","title":614,"type":"float"},
+            {"default":4.0,"max":5.0,"min":0.0,"name":"stack","title":615,"type":"float"},
             
         ],
     },
